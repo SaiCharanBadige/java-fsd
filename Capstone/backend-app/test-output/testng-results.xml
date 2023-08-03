@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="7" passed="7" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-03T17:11:21 IST" name="Default suite" finished-at="2023-08-03T17:11:56 IST" duration-ms="34935">
+    <groups>
+    </groups>
+    <test started-at="2023-08-03T17:11:21 IST" name="Default test" finished-at="2023-08-03T17:11:56 IST" duration-ms="34935">
+      <class name="com.MyAppApplicationTestscode">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:21 IST" name="beforeMethod" finished-at="2023-08-03T17:11:25 IST" duration-ms="3993" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="testing()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:25 IST" name="testing" finished-at="2023-08-03T17:11:26 IST" duration-ms="1110" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:26 IST" name="afterMethod" finished-at="2023-08-03T17:11:26 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:26 IST" name="beforeMethod" finished-at="2023-08-03T17:11:29 IST" duration-ms="2527" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="signup()[pri:1, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:29 IST" name="signup" finished-at="2023-08-03T17:11:30 IST" duration-ms="1387" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signup -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:30 IST" name="afterMethod" finished-at="2023-08-03T17:11:30 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:30 IST" name="beforeMethod" finished-at="2023-08-03T17:11:32 IST" duration-ms="2044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="signin()[pri:2, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:32 IST" name="signin" finished-at="2023-08-03T17:11:34 IST" duration-ms="1368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signin -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:34 IST" name="afterMethod" finished-at="2023-08-03T17:11:34 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:34 IST" name="beforeMethod" finished-at="2023-08-03T17:11:36 IST" duration-ms="2248" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="adminhome()[pri:4, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:36 IST" name="adminhome" finished-at="2023-08-03T17:11:37 IST" duration-ms="1275" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- adminhome -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:37 IST" name="afterMethod" finished-at="2023-08-03T17:11:37 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:37 IST" name="beforeMethod" finished-at="2023-08-03T17:11:40 IST" duration-ms="2783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="userhome()[pri:5, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:40 IST" name="userhome" finished-at="2023-08-03T17:11:41 IST" duration-ms="1457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userhome -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:41 IST" name="afterMethod" finished-at="2023-08-03T17:11:41 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:41 IST" name="beforeMethod" finished-at="2023-08-03T17:11:45 IST" duration-ms="4093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="loadusers()[pri:6, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:45 IST" name="loadusers" finished-at="2023-08-03T17:11:50 IST" duration-ms="4600" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadusers -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:50 IST" name="afterMethod" finished-at="2023-08-03T17:11:50 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:50 IST" name="beforeMethod" finished-at="2023-08-03T17:11:54 IST" duration-ms="4321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="approve()[pri:7, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:54 IST" name="approve" finished-at="2023-08-03T17:11:56 IST" duration-ms="1620" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- approve -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.MyAppApplicationTestscode@38467116]" started-at="2023-08-03T17:11:56 IST" name="afterMethod" finished-at="2023-08-03T17:11:56 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.MyAppApplicationTestscode -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
